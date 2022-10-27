@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.body{
+    margin-top: 4%;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 4%;
+    text-align: center;
+    text-decoration: none;
+}
+.ContainerAboutMe{
+    display: flex;
+    flex-direction: row;
+    padding: 8%;
+    gap: 4%;
+    align-items: center;
+    text-align: center;
+}
