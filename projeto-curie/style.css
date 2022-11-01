@@ -19,3 +19,16 @@
     align-items: center;
     text-align: center;
 }
+.StacksList{
+    list-style: none;
+}
+.SocialMedia{
+    width: 40px;
+    height: 40px;
+}
+
+
+
+.ExperienceContainer{
+    background-color: bisque;
+}
