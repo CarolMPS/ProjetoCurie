@@ -25,10 +25,9 @@
 .SocialMedia{
     width: 40px;
     height: 40px;
+    
 }
-
-
-
 .ExperienceContainer{
     background-color: bisque;
+    list-style: none;
 }
